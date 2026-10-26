@@ -1,0 +1,1 @@
+const mynums = [1,2,3]
